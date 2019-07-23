@@ -45,11 +45,11 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.org/iot/ontology/fiesta-iot#">
         <owl:versionInfo>3.1</owl:versionInfo>
-        <dc:description rdf:resource="http://ontology.fiesta-iot.eu/ontologyDocs/fiesta-iot.png"/>
-        <dc:description rdf:resource="http://ontology.fiesta-iot.eu/ontologyDocs/resourcegraph.png"/>
-        <dc:description rdf:resource="http://ontology.fiesta-iot.eu/ontologyDocs/observationgraph.png"/>
-        <dc:description rdf:resource="http://ontology.fiesta-iot.eu/ontologyDocs/resourceannotation.png"/>
-        <dc:description rdf:resource="http://ontology.fiesta-iot.eu/ontologyDocs/observationannotation.png"/>
+        <dc:description rdf:resource="http://smart-ics.ee.surrey.ac.uk/ontology/fiesta-iot.png"/>
+        <dc:description rdf:resource="http://smart-ics.ee.surrey.ac.uk/ontology/resourcegraph.png"/>
+        <dc:description rdf:resource="http://smart-ics.ee.surrey.ac.uk/ontology/observationgraph.png"/>
+        <dc:description rdf:resource="http://smart-ics.ee.surrey.ac.uk/ontology/resourceannotation.png"/>
+        <dc:description rdf:resource="http://smart-ics.ee.surrey.ac.uk/ontology/observationannotation.png"/>
         <dc:contributor xml:lang="en">Rachit Agarwal, Inria, Paris</dc:contributor>
         <dc:contributor xml:lang="en">David Gomez, UC, Santander</dc:contributor>
         <dc:contributor xml:lang="en">Tarek Elsaleh, UNIS, Surrey</dc:contributor>
